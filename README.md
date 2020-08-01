@@ -7,4 +7,4 @@ Old email is wrong, I fixed it and log it.
 
 make some different
 
-add something and want to redo it before commit master
+add something and want to redo it before commit master final
